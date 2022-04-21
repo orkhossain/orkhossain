@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orkhossain
 - 👀 I’m interested in Artifical Intelligence
-- 🌱 I’m currently learning SWift
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on an app I am working
 - 📫 How to reach me https://www.linkedin.com/in/ork-hossain-muntaqin-10423b167/
 
