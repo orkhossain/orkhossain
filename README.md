@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orkhossain
-- 👀 I’m interested in Artifical Intelligence
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on an website I am working
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning for AWS SAA-C03
+- 💞️ I’m looking to learn Kafka and RabbitMQ
 - 📫 How to reach me https://www.linkedin.com/in/ork-hossain-muntaqin-10423b167/
 
 <!---
