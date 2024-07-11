@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **orkhoss.2011@gmail.com**
 
-- ⚡ Fun fact **I am a polyglot and love anime**
+- ⚡ Fun fact **I am a polyglot and love meditation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
